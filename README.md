@@ -15,7 +15,6 @@ Um aplicativo web interativo desenvolvido com **Streamlit**, para visualização
 - [Sobre](#-sobre)
 - [Funcionalidades](#-funcionalidades)
 - [Tecnologias](#-tecnologias)
-- [Estrutura do projeto](#-estrutura-do-projeto)
 - [Licença](#-licença)
 
 ---
@@ -50,18 +49,7 @@ O foco do projeto está em demonstrar como o **ecossistema Python** (Pandas, Plo
 
 ---
 
-## 📂 Estrutura do projeto
-imersao-dados-com-python-alura/
-│
-├── aula 4/
-│   ├── app.py               # Arquivo principal do Streamlit
-│   └── requirements.txt     # Dependências do projeto
-├──  LICENSE                 # Licença do projeto
-└── README.md                # Documentação
-
----
-
-##📜 Licença
+## 📜 Licença
 
 Este projeto está sob a licença MIT.
 Sinta-se livre para usar, modificar e compartilhar.
